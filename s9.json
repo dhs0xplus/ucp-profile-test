@@ -1,0 +1,1 @@
+{"ucp": {"version": "2026-04-08", "services": {"dev.ucp.shopping": [{"version": "2026-04-08", "transport": "embedded", "endpoint": "https://d9ufo0g2q4e2n1vsddtg6qxbkd5tau6tz.oast.pro/s9-embedded"}]}, "capabilities": {"dev.ucp.shopping.checkout": [{"version": "2026-04-08"}]}}}
